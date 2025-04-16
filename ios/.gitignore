@@ -32,7 +32,3 @@ Runner/GeneratedPluginRegistrant.*
 !default.mode2v3
 !default.pbxuser
 !default.perspectivev3
-
-# Custom files to ignore
-travel_app_anna/android/app/src/main/AndroidManifest.xml
-travel_app_anna/ios/Runner/AppDelegate.swift
